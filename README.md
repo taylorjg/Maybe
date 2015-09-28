@@ -74,3 +74,8 @@ var mr = dictionary.Lookup(key).Bind(v =>
 The version of the code that uses LINQ query syntax avoids the increasing
 indentation. This would be even more noticeable if the expression involved
 more steps.
+
+## Links
+
+* [C# Language Specification 5.0](http://www.microsoft.com/en-gb/download/confirmation.aspx?id=7029)
+    * Section 17.6 "Query expressions"
